@@ -689,3 +689,13 @@
         margin-bottom: 30px;
     }
 }
+
+@media(max-width: 380px)
+{
+    .header__title {
+        margin-top: 60px;
+    }
+    .technology__btn {
+        top: 50vh ;
+    }
+}
